@@ -2,10 +2,12 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
-.container {
-    width: 1230px;
+h1 {
+    color: #ffffff;
 }
 
-h1 {
-    color: #fffff;
+@media (min-width: 1200px) {
+    .container {
+        width: 1230px;
+    }
 }
