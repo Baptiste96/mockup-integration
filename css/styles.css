@@ -6,6 +6,19 @@ h1 {
     color: #ffffff;
 }
 
+/*Background for section_three*/
+.pink {
+    background-color: #f5989d;
+}
+
+.grey {
+    background-color: #615f7d;
+}
+
+.green {
+    background-color: #09a298;
+}
+
 @media (min-width: 1200px) {
     .container {
         width: 1230px;
