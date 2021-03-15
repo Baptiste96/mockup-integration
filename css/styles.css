@@ -7,7 +7,17 @@ h1 {
 }
 
 #section_one {
-    background-image: url("images/bg_section1.png");
+    background-image: url("../images/bg_section1.png");
+    background-repeat: no-repeat;
+}
+
+.hero {
+    padding-top: 355px;
+    padding-bottom: 380px;
+}
+
+.iphone {
+    padding-top: 260px;
 }
 
 #section_three {
