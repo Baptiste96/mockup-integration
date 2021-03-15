@@ -6,6 +6,10 @@ h1 {
     color: #ffffff;
 }
 
+#section_one {
+    background-image: url("images/bg_section1.png");
+}
+
 #section_three {
     color: #ffffff;
 }
@@ -29,6 +33,13 @@ h1 {
 
 .image2 {
     background-image: url("../images/image2.png");
+}
+
+.padding {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 
 @media (min-width: 1200px) {
