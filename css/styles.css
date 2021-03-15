@@ -6,6 +6,10 @@ h1 {
     color: #ffffff;
 }
 
+#section_three {
+    color: #ffffff;
+}
+
 /*Background for section_three*/
 .pink {
     background-color: #f5989d;
@@ -17,6 +21,14 @@ h1 {
 
 .green {
     background-color: #09a298;
+}
+
+.image1 {
+    background-image: url("../images/image1.png");
+}
+
+.image2 {
+    background-image: url("../images/image2.png");
 }
 
 @media (min-width: 1200px) {
