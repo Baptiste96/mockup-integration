@@ -47,16 +47,17 @@ h1 {
 }
 
 .iphone {
-    padding-top: 258px;
-}
-
-.start {
-    padding-top: 600px;
+    padding-top: 70px;
 }
 
 /*Section_two*/
+.start {
+    padding-bottom: 30px;
+}
 
-
+.reform {
+    padding-top: 75px;
+}
 /*Section_three*/
 #section_three {
     color: #ffffff;
@@ -103,6 +104,18 @@ a:hover {
 /*Section_four*/
 #section_four {
     padding-top: 100px;
+}
+
+.details {
+    padding-bottom: 60px;
+}
+
+h4 {
+    font-size: 13px;
+    font-weight: bold;
+    padding-bottom: 30px;
+    color: #67676d;
+    text-align: justify;
 }
 
 @media (min-width: 1200px) {
