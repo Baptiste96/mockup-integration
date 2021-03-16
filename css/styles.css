@@ -27,6 +27,22 @@ p {
     font-size: 30px;
 }
 
+h4 {
+    font-size: 13px;
+    font-weight: bold;
+    padding-bottom: 30px;
+    color: #67676d;
+    text-align: justify;
+}
+
+.whiteh4 {
+    font-size: 13px;
+    font-weight: bold;
+    padding-bottom: 30px;
+    color: #ffffff;
+    text-align: justify;
+}
+
 /*Header*/
 .logo {
     padding-top: 54px;
@@ -104,18 +120,18 @@ a:hover {
 /*Section_four*/
 #section_four {
     padding-top: 100px;
+    padding-bottom: 100px;
 }
 
 .details {
     padding-bottom: 60px;
 }
 
-h4 {
-    font-size: 13px;
-    font-weight: bold;
-    padding-bottom: 30px;
-    color: #67676d;
-    text-align: justify;
+/*Section_six*/
+#section_six {
+    padding-top: 100px;
+    padding-bottom: 100px;   
+    background-color: #82ca9c;
 }
 
 @media (min-width: 1200px) {
