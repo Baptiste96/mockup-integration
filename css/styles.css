@@ -2,6 +2,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     background-image: url("../images/bg_section1.png");
     background-repeat: no-repeat;
+    background-size: contain;
 }
 
 h1 {
@@ -31,6 +32,7 @@ p {
     padding-top: 54px;
 }
 
+
 /*Hero*/
 h1 {
     color: #ffffff;
@@ -38,7 +40,6 @@ h1 {
 
 .hero {
     padding-top: 355px;
-    padding-bottom: 380px;
 }
 
 .hero h1 {
@@ -48,6 +49,13 @@ h1 {
 .iphone {
     padding-top: 258px;
 }
+
+.start {
+    padding-top: 600px;
+}
+
+/*Section_two*/
+
 
 /*Section_three*/
 #section_three {
