@@ -1,14 +1,17 @@
 body {
     font-family: 'Open Sans', sans-serif;
-}
-
-h1 {
-    color: #ffffff;
-}
-
-#section_one {
     background-image: url("../images/bg_section1.png");
     background-repeat: no-repeat;
+}
+
+/*Header*/
+.logo {
+    padding-top: 54px;
+}
+
+/*Hero*/
+h1 {
+    color: #ffffff;
 }
 
 .hero {
@@ -16,15 +19,24 @@ h1 {
     padding-bottom: 380px;
 }
 
-.iphone {
-    padding-top: 260px;
+.hero h1 {
+    font-size: 60px;
 }
 
+.hero p {
+    color: #ffffff;
+    font-size: 13px;
+}
+
+.iphone {
+    padding-top: 258px;
+}
+
+/*Section_three*/
 #section_three {
     color: #ffffff;
 }
 
-/*Background for section_three*/
 .pink {
     background-color: #f5989d;
 }
