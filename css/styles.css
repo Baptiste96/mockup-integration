@@ -52,6 +52,7 @@ h1 {
 /*Section_three*/
 #section_three {
     color: #ffffff;
+    padding-top: 75px;
 }
 
 .pink {
@@ -79,6 +80,21 @@ h1 {
     padding-bottom: 50px;
     padding-left: 40px;
     padding-right: 40px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/*Section_four*/
+#section_four {
+    padding-top: 100px;
 }
 
 @media (min-width: 1200px) {
