@@ -4,6 +4,28 @@ body {
     background-repeat: no-repeat;
 }
 
+h1 {
+    color: #ffffff;
+}
+
+h2 {
+    color: #222626;
+}
+
+p {
+    color: #959595;
+}
+
+.white {
+    color: #ffffff;
+    font-size: 13px;
+}
+
+.whiteh2 {
+    color: #ffffff;
+    font-size: 30px;
+}
+
 /*Header*/
 .logo {
     padding-top: 54px;
@@ -21,11 +43,6 @@ h1 {
 
 .hero h1 {
     font-size: 60px;
-}
-
-.hero p {
-    color: #ffffff;
-    font-size: 13px;
 }
 
 .iphone {
